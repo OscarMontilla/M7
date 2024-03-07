@@ -1,0 +1,138 @@
+2024-03-07 16:17:04	DEBUG	Texto a registrar
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	DEBUG	SE HA INSERTADO
+2024-03-07 16:17:04	DEBUG	SE HA INSERTADO
+2024-03-07 16:17:04	DEBUG	SE HA INSERTADO
+2024-03-07 16:17:04	WARNING	Usuario borrado 
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	WARNING	Usuario borrado 
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	WARNING	Usuario borrado 
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:04	INFO	Se ha actualizado el usuario
+2024-03-07 16:17:04	INFO	Se ha actualizado el usuario
+2024-03-07 16:17:04	INFO	Se ha actualizado el usuario
+2024-03-07 16:17:04	NOTICE	Marcamos el usuario que queremos borrar
+2024-03-07 16:17:05	WARNING	Usuario borrado 
+2024-03-07 16:17:05	NOTICE	Marcamos el usuario que queremos borrar
+2024-03-07 16:17:05	WARNING	Usuario borrado 
+2024-03-07 16:17:05	NOTICE	Marcamos el usuario que queremos borrar
+2024-03-07 16:17:05	WARNING	Usuario borrado 
+2024-03-07 16:17:40	DEBUG	Texto a registrar
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	DEBUG	SE HA INSERTADO
+2024-03-07 16:17:40	DEBUG	SE HA INSERTADO
+2024-03-07 16:17:40	DEBUG	SE HA INSERTADO
+2024-03-07 16:17:40	WARNING	Usuario borrado 
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	WARNING	Usuario borrado 
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	WARNING	Usuario borrado 
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	ERROR	Llamada a la funcion SetAcessor
+2024-03-07 16:17:40	INFO	Se ha actualizado el usuario
+2024-03-07 16:17:40	INFO	Se ha actualizado el usuario
+2024-03-07 16:17:40	INFO	Se ha actualizado el usuario
+2024-03-07 16:17:40	NOTICE	Marcamos el usuario que queremos borrar
+2024-03-07 16:17:40	WARNING	Usuario borrado 
+2024-03-07 16:17:40	NOTICE	Marcamos el usuario que queremos borrar
+2024-03-07 16:17:40	WARNING	Usuario borrado 
+2024-03-07 16:17:40	NOTICE	Marcamos el usuario que queremos borrar
+2024-03-07 16:17:40	WARNING	Usuario borrado 
