@@ -1,0 +1,6 @@
+2024-03-14 16:31:59	DEBUG	Same important text to register.
+2024-03-14 16:31:59	INFO	Same important text to register2.
+2024-03-14 16:31:59	WARNING	Same important text to register3.
+2024-03-14 16:33:41	DEBUG	Same important text to register.
+2024-03-14 16:33:41	INFO	Same important text to register2.
+2024-03-14 16:33:41	WARNING	Same important text to register3.
