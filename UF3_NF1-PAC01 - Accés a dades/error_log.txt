@@ -1,0 +1,3 @@
+2024-04-04 11:23:11: SQLSTATE[42601]: Syntax error: 7 ERROR:  error de sintaxis en o cerca de «INT»
+LINE 1: INSERT INT Customers (CustomerName, ContactName, Address, Ci...
+               ^
